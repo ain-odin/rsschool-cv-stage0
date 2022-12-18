@@ -18,19 +18,19 @@ __Discord:__ ain-odin#3094
 
 ## __Education__
 
-### __Bachelor Degree__
+* __Bachelor Degree__
 Kyrgyz State University of Construction, Transport and Architecture | 2017 - 2022
 
-### __Graphic design courses__
+* __Graphic design courses__
 AirBee | 2018
  
-### __JavaScript courses__
+* __JavaScript courses__
 Neobis Club | in progress
  
-### __Responsive Web Design__
+* __Responsive Web Design__
 Freecodecamp | nov. 2022
  
-### __JavaScript/Front-end. Stage 0__
+* __JavaScript/Front-end. Stage 0__
 RS School | in progress
 
 ***
@@ -39,12 +39,23 @@ RS School | in progress
  
 I have no experience in IT. But working in coffee industry has highly developed my soft-skills. And my experience in graphic design helps in markup and styling.
  
-### __Chef Barista__
+* __Chef Barista__
 Vanilla coffe company | 2012 - 2018
 
 I started my coffee way as a junior barista. In six years I have grown to the position of a chef barista, participated in the launch of three coffee houses, took part in local and foreign coffee championships. I also built the work of the bar and waiters, trained interns, led the work of the team both in the company itself and its corporate partners. Also an important part of my work was communication with guests.
  
-### __Graphic-designer__
+* __Graphic-designer__
 Production Center | 2018 - 2020
+
+***
+
+## __Skills__
+
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code
+* Adobe Photoshop, Illustrator, InDesign
+* Brewing delicious coffee
 
 ***

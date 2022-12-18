@@ -1,0 +1,60 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #F5F5F5;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 100px 0 100px;
+}
+
+#personal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.personal__photo img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.personal__info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+.personal__info h1 {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 50px;
+    word-spacing: 10px;
+    letter-spacing: 4px;
+    color: #2A2A2A;
+}
+
+.personal__info hr {
+    margin: 20px 0;
+    background-color: #E3CDC0;
+    border: none;
+    width: 140px;
+    height: 3px;
+}
+
+.personal__info p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 2px;
+    color: #A8A8A8
+}

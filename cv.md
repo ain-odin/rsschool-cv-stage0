@@ -34,3 +34,17 @@ Freecodecamp | nov. 2022
 RS School | in progress
 
 ***
+
+## __Work Experience__
+ 
+I have no experience in IT. But working in coffee industry has highly developed my soft-skills. And my experience in graphic design helps in markup and styling.
+ 
+### __Chef Barista__
+Vanilla coffe company | 2012 - 2018
+
+I started my coffee way as a junior barista. In six years I have grown to the position of a chef barista, participated in the launch of three coffee houses, took part in local and foreign coffee championships. I also built the work of the bar and waiters, trained interns, led the work of the team both in the company itself and its corporate partners. Also an important part of my work was communication with guests.
+ 
+### __Graphic-designer__
+Production Center | 2018 - 2020
+
+***

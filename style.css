@@ -137,12 +137,12 @@ li {
     border-bottom: 2px solid #F5F5F5;
 }
 
-.contacts__info-item {
+.contacts__info-item, .lang__info-item {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-.contacts__info-title {
+.contacts__info-title, .lang__info-title  {
     padding-right: 10px;
 }

@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-    color: #A8A8A8 !important;
+    color: #2A2A2A !important;
 }
 
 li {
@@ -156,7 +156,7 @@ li {
 }
 
 .footer {
-    background: #F5F5F5;
+    background: #E3CDC0;
     width: 100%;
 }
 
@@ -164,13 +164,14 @@ li {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
     padding: 20px 0;
 }
 
-.footer img {
+.footer__text p, a{
+    color: white !important;
+}
+
+.footer__logo {
     width: 120px;
-    background-image: url(./assets/svg/rs_school_logo.svg);
-    background-color: #A8A8A8;
-    background-size: contain;
-    background-repeat: no-repeat;
 }

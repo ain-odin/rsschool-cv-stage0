@@ -8,11 +8,11 @@ _Junior Frontend Developer_
 
 ## __Contacts__
 
-__Address:__ Bishkek, Kyrgizstan
-__Email:__ ain.odintseva@gmail.com
-__Telegram:__ ain_odin
-__Github:__ ain-odin
-__Discord:__ ain-odin#3094
+* __Address:__ Bishkek, Kyrgizstan
+* __Email:__ ain.odintseva@gmail.com
+* __Telegram:__ ain_odin
+* __Github:__ ain-odin
+* __Discord:__ ain-odin#3094
 
 ***
 
@@ -68,3 +68,23 @@ Production Center | 2018 - 2020
 
 ***
 
+## __Code__
+
+```
+function setStatus(num = 2) {
+    return Math.floor(Math.random() * num);
+  }
+
+usersArr.map ((user) => {
+    let status = setStatus();
+    if (status > 0) {
+        user.online = true;
+    }
+    else {
+        user.online = false;
+    }
+    return user.online;
+});
+```
+
+***

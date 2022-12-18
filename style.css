@@ -141,13 +141,13 @@ li {
     align-items: flex-start;
 }
 
-.contacts__info-item, .lang__info-item, .footer__text{
+.contacts__info-item, .lang__info-item, .footer__text {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-.contacts__info-title, .lang__info-title, .footer__text{
+.contacts__info-title, .lang__info-title, .footer__text p{
     padding-right: 10px;
 }
 
@@ -164,5 +164,13 @@ li {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    padding: 20px 0;
 }
 
+.footer img {
+    width: 120px;
+    background-image: url(./assets/svg/rs_school_logo.svg);
+    background-color: #A8A8A8;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

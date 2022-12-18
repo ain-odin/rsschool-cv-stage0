@@ -71,20 +71,9 @@ Production Center | 2018 - 2020
 ## __CODE__
 
 ```
-function setStatus(num = 2) {
-    return Math.floor(Math.random() * num);
-  }
-
-usersArr.map ((user) => {
-    let status = setStatus();
-    if (status > 0) {
-        user.online = true;
-    }
-    else {
-        user.online = false;
-    }
-    return user.online;
-});
+function multiply(a, b){
+  return a * b
+}
 ```
 
 ***

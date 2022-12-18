@@ -1,12 +1,12 @@
-# __Ainura Odintseva__
+# __AINURA ODINTSEVA__
 
 ***
 
-_Junior Frontend Developer_
+## JUNIOR FRONTEND DEVELOPER
 
 ***
 
-## __Contacts__
+## __CONTACTS__
 
 * __Address:__ Bishkek, Kyrgizstan
 * __Email:__ ain.odintseva@gmail.com
@@ -16,7 +16,7 @@ _Junior Frontend Developer_
 
 ***
 
-## __Education__
+## __EDUCATION__
 
 * __Bachelor Degree__
 Kyrgyz State University of Construction, Transport and Architecture | 2017 - 2022
@@ -35,7 +35,7 @@ RS School | in progress
 
 ***
 
-## __Work Experience__
+## __WORK EXPERIENCE__
  
 I have no experience in IT. But working in coffee industry has highly developed my soft-skills. And my experience in graphic design helps in markup and styling.
  
@@ -49,7 +49,7 @@ Production Center | 2018 - 2020
 
 ***
 
-## __Skills__
+## __SKILLS__
 
 * HTML5, CSS3
 * JavaScript Basics
@@ -60,7 +60,7 @@ Production Center | 2018 - 2020
 
 ***
 
-## __Languages__
+## __LANGUAGES__
 
 * __Kyrgyz__ - Native
 * __Russian__ - Native
@@ -68,7 +68,7 @@ Production Center | 2018 - 2020
 
 ***
 
-## __Code__
+## __CODE__
 
 ```
 function setStatus(num = 2) {
@@ -88,3 +88,9 @@ usersArr.map ((user) => {
 ```
 
 ***
+
+## __SUMMARY__
+
+I am an enthusiastic, self-motivated, reliable, responsible and hard working person. Motherhood additionally strengthened my qualities such as patience, multitasking, attention to detail. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines.
+
+My goal is to learn a pure JavaScript at a good level and learn the React library. I would like to work under the guidance of an experienced developer to gain practical experience.

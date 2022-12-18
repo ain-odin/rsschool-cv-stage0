@@ -27,6 +27,7 @@ li {
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #2A2A2A;
+    margin-bottom: 12px;
 }
 
 .text-title {
@@ -135,6 +136,9 @@ li {
 .section {
     padding: 40px 0;
     border-bottom: 2px solid #F5F5F5;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
 }
 
 .contacts__info-item, .lang__info-item {
@@ -145,4 +149,8 @@ li {
 
 .contacts__info-title, .lang__info-title  {
     padding-right: 10px;
+}
+
+.summary__info-goal {
+    padding-top: 20px;
 }

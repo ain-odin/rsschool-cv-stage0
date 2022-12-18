@@ -141,16 +141,28 @@ li {
     align-items: flex-start;
 }
 
-.contacts__info-item, .lang__info-item {
+.contacts__info-item, .lang__info-item, .footer__text{
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-.contacts__info-title, .lang__info-title  {
+.contacts__info-title, .lang__info-title, .footer__text{
     padding-right: 10px;
 }
 
 .summary__info-goal {
     padding-top: 20px;
 }
+
+.footer {
+    background: #F5F5F5;
+    width: 100%;
+}
+
+.footer__info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+

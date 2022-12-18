@@ -127,12 +127,22 @@ li {
     color: #A8A8A8
 }
 
+.cv__info {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
 .section {
     padding: 40px 0;
     border-bottom: 2px solid #F5F5F5;
 }
 
-.cv__info {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+.contacts__info-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.contacts__info-title {
+    padding-right: 10px;
 }

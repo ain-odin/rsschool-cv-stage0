@@ -59,3 +59,12 @@ Production Center | 2018 - 2020
 * Brewing delicious coffee
 
 ***
+
+## __Languages__
+
+* __Kyrgyz__ - Native
+* __Russian__ - Native
+* __English__ - Upper-Intermediate
+
+***
+

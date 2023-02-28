@@ -1,1 +1,1 @@
-https://ain-odin.github.io/rsschool-cv/
+https://ain-odin.github.io/rsschool-cv-stage0/
